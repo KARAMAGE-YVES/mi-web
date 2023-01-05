@@ -324,7 +324,7 @@
  {
     "name": "Netflix Full Stack Clone",
     "desc": "Netflix Full Stack Clone built using ReactJs, deployed on vercel.",
-    "image": "netflix",
+    "image": "NFetflix",
     "category": "mern",
     "links": {
       "view": "https://netflix-app.vercel.app/",
@@ -347,7 +347,7 @@
     {
     "name": "Facebook Full Stack App",
     "desc": "Facebook App built using ReactJs, deployed on vercel.",
-    "image": "facebook",
+    "image": "Facebook_Logo_(2019).svg.png",
     "category": "mern",
     "links": {
       "view": "https://facebook-clone-beta.vercel.app/",
