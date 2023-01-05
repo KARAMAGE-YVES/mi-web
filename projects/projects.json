@@ -1,5 +1,5 @@
 [
-  {
+ <!-- {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid",
@@ -338,5 +338,37 @@
       "view": "#",
       "code": "#"
     }
-  }
+  }-->
+
+ {
+    "name": "Netflix Full Stack Clone",
+    "desc": "Netflix Full Stack Clone built using ReactJs, deployed on vercel.",
+    "image": "netflix",
+    "category": "mern",
+    "links": {
+      "view": "https://netflix-app.vercel.app/",
+      "code": "https://github.com"
+    }
+   
+    {
+    "name": "Hulu Full Stack App",
+    "desc": "Hulu App built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
+    "image": "hulu",
+    "category": "mern",
+    "links": {
+      "view": "https://huluclone.vercel.app/",
+      "code": "https://github.com"
+    }
+   
+    {
+    "name": "Facebook Full Stack App",
+    "desc": "Facebook App built using ReactJs, deployed on vercel.",
+    "image": "facebook",
+    "category": "mern",
+    "links": {
+      "view": "https://facebook-clone-beta.vercel.app/",
+      "code": "https://github.com"
+    }
+   
+   
 ]
