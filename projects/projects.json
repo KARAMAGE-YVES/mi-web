@@ -321,39 +321,6 @@
     }
   },
 
- {
-    "name": "Netflix Full Stack Clone",
-    "desc": "Netflix Full Stack Clone built using ReactJs, deployed on vercel.",
-    "image": "NFetflix",
-    "category": "mern",
-    "links": {
-      "view": "https://netflix-app.vercel.app/",
-      "code": "#"
-    },
- }
-   
-    {
-    "name": "Hulu Full Stack App",
-    "desc": "Hulu App built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
-    "links": {
-      "view": "https://huluclone.vercel.app/",
-      "code": "#"
-    },
-
-}
-   
-    {
-    "name": "Facebook Full Stack App",
-    "desc": "Facebook App built using ReactJs, deployed on vercel.",
-    "image": "Facebook_Logo_(2019).svg.png",
-    "category": "mern",
-    "links": {
-      "view": "https://facebook-clone-beta.vercel.app/",
-      "code": "#"
-    }
-     
-    }
+ 
    
 ]
