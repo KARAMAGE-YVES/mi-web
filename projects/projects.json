@@ -56,7 +56,7 @@
     "category": "mern",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "#""
+      "code": "#"
     }
   },
   {
@@ -120,7 +120,6 @@
     }
   },
  
-  },
   {
     "name": "Composey Website",
     "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
@@ -352,7 +351,7 @@
     "category": "mern",
     "links": {
       "view": "https://facebook-clone-beta.vercel.app/",
-      "code": #"
+      "code": "#"
     }
      
     }
