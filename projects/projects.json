@@ -1,12 +1,12 @@
 [
- <!-- {
+  {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+    "view": "#",
+      "code": "#"
     }
   },
   {
@@ -15,8 +15,8 @@
     "image": "sppuprepandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+     "view": "#",
+      "code": "#"
     }
   },
   {
@@ -25,8 +25,8 @@
     "image": "newsboxandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -35,8 +35,8 @@
     "image": "weatherlyandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+    "view": "#",
+      "code": "#"
     }
   },
   {
@@ -46,7 +46,7 @@
     "category": "mern",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "code": "#"
     }
   },
   {
@@ -56,7 +56,7 @@
     "category": "mern",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "code": "#""
     }
   },
   {
@@ -66,7 +66,7 @@
     "category": "mern",
     "links": {
       "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "code": "#"
     }
   },
   {
@@ -75,8 +75,8 @@
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+    "view": "#",
+      "code": "#"
     }
   },
   {
@@ -85,8 +85,8 @@
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+     "view": "#",
+      "code": "#"
     }
   },
   {
@@ -95,8 +95,8 @@
     "image": "jspro",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+"view": "#",
+      "code": "#"
     }
   },
   {
@@ -105,8 +105,8 @@
     "image": "webuiclones",
     "category": "mern",
     "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -116,28 +116,10 @@
     "category": "mern",
     "links": {
       "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+      "code": "#"
     }
   },
-  {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
-    "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
-    }
-  },
-  {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
-    }
+ 
   },
   {
     "name": "Composey Website",
@@ -146,7 +128,7 @@
     "category": "basicweb",
     "links": {
       "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+      "code": "#"
     }
   },
   {
@@ -155,8 +137,8 @@
     "image": "webviewapp",
     "category": "android",
     "links": {
-      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
+    "view": "#",
+      "code": "#"
     }
   },
   {
@@ -215,8 +197,8 @@
     "image": "webchat",
     "category": "mern",
     "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -225,8 +207,8 @@
     "image": "basicbank",
     "category": "android",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+     "view": "#",
+      "code": "#"
     }
   },
   {
@@ -235,8 +217,8 @@
     "image": "issuetrack",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
+     "view": "#",
+      "code": "#"
     }
   },
   {
@@ -245,8 +227,8 @@
     "image": "phppblform",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -255,8 +237,8 @@
     "image": "linklist",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/LinkList",
-      "code": "https://github.com/jigar-sable/LinkList"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -265,8 +247,8 @@
     "image": "saas",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
+     "view": "#",
+     "code": "#"
     }
   },
   {
@@ -338,7 +320,7 @@
       "view": "#",
       "code": "#"
     }
-  }-->
+  },
 
  {
     "name": "Netflix Full Stack Clone",
@@ -347,8 +329,9 @@
     "category": "mern",
     "links": {
       "view": "https://netflix-app.vercel.app/",
-      "code": "https://github.com"
-    }
+      "code": "#"
+    },
+ }
    
     {
     "name": "Hulu Full Stack App",
@@ -357,8 +340,10 @@
     "category": "mern",
     "links": {
       "view": "https://huluclone.vercel.app/",
-      "code": "https://github.com"
-    }
+      "code": "#"
+    },
+
+}
    
     {
     "name": "Facebook Full Stack App",
@@ -367,8 +352,9 @@
     "category": "mern",
     "links": {
       "view": "https://facebook-clone-beta.vercel.app/",
-      "code": "https://github.com"
+      "code": #"
     }
-   
+     
+    }
    
 ]
